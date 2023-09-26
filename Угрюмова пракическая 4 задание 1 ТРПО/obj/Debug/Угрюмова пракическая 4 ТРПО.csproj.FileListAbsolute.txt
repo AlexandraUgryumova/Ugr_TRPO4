@@ -1,0 +1,15 @@
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\bin\Debug\Угрюмова пракическая 4 ТРПО.exe.config
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\bin\Debug\Угрюмова пракическая 4 ТРПО.exe
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\bin\Debug\Угрюмова пракическая 4 ТРПО.pdb
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\obj\Debug\Угрюмова пракическая 4 ТРПО.csproj.AssemblyReference.cache
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\obj\Debug\MainWindow.g.cs
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\obj\Debug\App.g.cs
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\obj\Debug\Угрюмова пракическая 4 ТРПО_MarkupCompile.cache
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\obj\Debug\Угрюмова пракическая 4 ТРПО_MarkupCompile.lref
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\obj\Debug\MainWindow.baml
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\obj\Debug\Угрюмова пракическая 4 ТРПО.g.resources
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\obj\Debug\Угрюмова_пракическая_4_ТРПО.Properties.Resources.resources
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\obj\Debug\Угрюмова пракическая 4 ТРПО.csproj.GenerateResource.cache
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\obj\Debug\Угрюмова пракическая 4 ТРПО.csproj.CoreCompileInputs.cache
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\obj\Debug\Угрюмова пракическая 4 ТРПО.exe
+C:\Users\328-5\Desktop\Угрюмова\ТРПО\Угрюмова пракическая 4 ТРПО\obj\Debug\Угрюмова пракическая 4 ТРПО.pdb
